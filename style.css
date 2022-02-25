@@ -1,0 +1,39 @@
+body{
+    font-family: 'Cabin', sans-serif;
+    background: rgb(255,0,0);
+background: linear-gradient(90deg, rgba(255,0,0,1) 0%, rgba(237,145,14,1) 50%, rgba(221,199,23,1) 100%);
+    
+#showSketch{
+    float: right;
+    margin-right: 50px;
+}
+    
+    #sketchindentification_title{
+        margin-left: 250px;
+    }
+    .button{
+        width: 200px;
+        font-size: 18px;
+    }
+    
+    .p{
+        font-size: 16px;
+    }
+
+#your_sketch_p{
+    font-size: 23px;
+}   
+
+.span{
+    font-size: 25px;
+}
+
+#span_timer{
+    float: right;
+    margin-right: 50px;
+}
+
+#span_score{
+    float: left;
+    margin-right: 50px;
+}
